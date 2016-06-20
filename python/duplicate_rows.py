@@ -2,7 +2,7 @@
 
 import codecs
 
-file_path     = 'duplicate_rows_test.txt'
+file_path     = 'duplicate_rows_input.txt'
 enc           = 'utf-8'
 output_file   = './dupulicate_rows_output.txt'
 duplicate_num = 4
